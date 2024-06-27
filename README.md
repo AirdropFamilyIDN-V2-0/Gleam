@@ -8,7 +8,7 @@ part 2 : https://t.me/GleamRewardsBot/app?startapp=cmM9ZDA0Zjg5MWU
 
 # How To Run Bot
 ```
- git clone https://github.com/AirDropFamilyIDN/AutoFarmGleam.git
+ git clone https://github.com/AirdropFamilyIDN-V2-0/Gleam.git
 ```
 ```
 cd Gleam
